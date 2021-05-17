@@ -14,7 +14,7 @@ Generate Pyrogram String Session Using this bot.
   - Telegram Bot Token from [here](https://t.me/BotFather).
 
 ## Deploy Now:
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)
+![Deploy](https://www.herokucdn.com/deploy/button.svg)
 
 #### Coded By
 - [Krishna Singhal](https://github.com/Krishna-Singhal)
